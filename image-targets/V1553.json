@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 130,
+    "left": 0,
+    "width": 572,
+    "height": 762,
+    "isRotated": true,
+    "originalWidth": 572,
+    "originalHeight": 1024
+  },
+  "imagePath": "image-targets/V1553_luminance.jpg",
+  "metadata": null,
+  "name": "V1553",
+  "resources": {
+    "originalImage": "V1553_original.jpg",
+    "croppedImage": "V1553_cropped.jpg",
+    "thumbnailImage": "V1553_thumbnail.jpg",
+    "luminanceImage": "V1553_luminance.jpg"
+  },
+  "created": 1794941741608,
+  "updated": 1794941741608
+}

@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 139,
+    "left": 0,
+    "width": 559,
+    "height": 745,
+    "isRotated": true,
+    "originalWidth": 559,
+    "originalHeight": 1024
+  },
+  "imagePath": "image-targets/V1511_luminance.jpg",
+  "metadata": null,
+  "name": "V1511",
+  "resources": {
+    "originalImage": "V1511_original.jpg",
+    "croppedImage": "V1511_cropped.jpg",
+    "thumbnailImage": "V1511_thumbnail.jpg",
+    "luminanceImage": "V1511_luminance.jpg"
+  },
+  "created": 1790498780365,
+  "updated": 1790498780365
+}
